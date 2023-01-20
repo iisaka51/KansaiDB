@@ -93,11 +93,11 @@
 
 # SurrealDBの2-Tierアーキテクチャ概要
 
-![surrealdb_arch.png](surrealdb_arch.png)
+![surrealdb_arch.png](https://github.com/iisaka51/KansaiDB/blob/main/SurrealDB_Intro/surrealdb_arch.png)
 
 # SurrealDBの動作概要
 
-![surrealdb_dataflow.png](surrealdb_dataflow.png)
+![surrealdb_dataflow.png](https://github.com/iisaka51/KansaiDB/blob/main/SurrealDB_Intro/surrealdb_dataflow.png)
 
 # ソースコード
 
@@ -843,7 +843,7 @@ DEFINE LOGIN guest ON DATABASE PASSWORD “guest.guest”;
 
 # LOGINのイメージ
 
-![surrealdb_login.png](surrealdb_login.png)
+![surrealdb_login.png](https://github.com/iisaka51/KansaiDB/blob/main/SurrealDB_Intro/surrealdb_login.png)
 
 # TOKEN
 
@@ -877,7 +877,7 @@ DEFINE SCOPE account SESSION 24h
 
 # SCOPEのイメージ
 
-![surrealdb_scope.png](surrealdb_scope.png)
+![surrealdb_scope.png](https://github.com/iisaka51/KansaiDB/blob/main/SurrealDB_Intro/surrealdb_scope.png)
 
 # SCOPE認証にSIGNUP
 
@@ -1380,7 +1380,7 @@ async def main():
 
 # ****TiKVのアーキテクチャ****
 
-![tikv_stack.png](tikv_stack.png)
+![tikv_stack.png](https://github.com/iisaka51/KansaiDB/blob/main/SurrealDB_Intro/tikv_stack.png)
 
 # IndexedDB
 
